@@ -1,0 +1,2 @@
+# Slip-Aware-Autonomous-Navigation-System-for-modular-robots-on-unstructured-terrain
+this presents a four-wheel, two-motor skid-steer robot whose navigation controller reasons about wheel slip. A friction-based kinematic model is identified from the robot's own driving data on deformable, leaf-littered terrain and embedded as the rollout dynamics of a Hybrid A*-guided Model Predictive Path Integral (MPPI) controller.
